@@ -10,7 +10,7 @@ Answer the following questions based on your understanding of how to pitch a sof
 ### Understanding the Audience: ###
    - Why is it important to understand your audience when pitching a software project? How can you tailor your pitch to different types of stakeholders (e.g., investors, technical team, customers)?
 1. Understanding the Audience
-Understanding your audience is very important when pitching your software project because it allows you to direct your message to their specific interests, needs, and their level of technical knowledge. Which increases the chances of them getting interested and getting their support.
+- Understanding your audience is very important when pitching your software project because it allows you to direct your message to their specific interests, needs, and their level of technical knowledge. Which increases the chances of them getting interested and getting their support.
 
 Tailoring your pitch to different stakeholders
 
@@ -28,7 +28,7 @@ For investors: "PesaConnect bridges the gap between mobile money and cryptocurre
    - Describe the importance of a clear problem statement in a software project pitch. How do you effectively communicate the problem your software aims to solve?
 
 2. Problem Statement
-Create a clear and straightforward problem statement that sets the stage for your pitching. Because it helps the involved stakeholders understand the importance of your solution 
+- Create a clear and straightforward problem statement that sets the stage for your pitching. Because it helps the involved stakeholders understand the importance of your solution 
 
 Effective Communication
    - Use data and statistics to show the importance of your software
@@ -46,7 +46,7 @@ Despite the rapid growth of cryptocurrencies and mobile money services, there is
    - What key elements should be included when describing the solution in your pitch? Provide an example of a concise and compelling solution description.
 
 3. Solution Description
-Here you show the features  and benefits using non-technical jargon
+- Here you show the features  and benefits using non-technical jargon
 
    1. Core functionality and features.
    2. How the solution addresses the problem.
@@ -65,7 +65,7 @@ Example:
    - Why is market analysis crucial in a software project pitch? What kind of market information should you include to strengthen your pitch?
 
 4. Market Analysis
-Importance: Market analysis demonstrates the demand for your solution and the potential for growth..it shows that you understand your target market and have identified a viable opportunity
+- Importance: Market analysis demonstrates the demand for your solution and the potential for growth..it shows that you understand your target market and have identified a viable opportunity
 
 Market Information to Include
 - Market size and growth projections
@@ -84,8 +84,7 @@ The mobile money market in Africa is valued at $3 billion, growing rapidly with 
    - Explain the concept of a Unique Selling Proposition (USP). How do you identify and articulate your software project's USP in your pitch?
 
 5. Unique Selling Proposition (USP)
-
-A Unique Selling Proposition is a clear statement that describes the benefit of your offer, how you solve your customer's need, and how your product distinguishes it from your competitors by highlighting unique features and benefits
+- A Unique Selling Proposition is a clear statement that describes the benefit of your offer, how you solve your customer's need, and how your product distinguishes it from your competitors by highlighting unique features and benefits
 
 Identification and Articulation
    - List all the benefits your software provides
@@ -102,7 +101,7 @@ PesaConnect's USP lies in its seamless integration with mobile money services li
    - How do you address technical feasibility in your pitch? What details should you include to assure stakeholders of your project's technical viability?
 
 6. Technical Feasibility
-Addressing technical feasibility assures stakeholders that your project can be successfully developed and implemented
+- Addressing technical feasibility assures stakeholders that your project can be successfully developed and implemented
 
 Addressing Technical Feasibility
    - Present the technical architecture and development plan.
@@ -124,7 +123,7 @@ PesaConnect's architecture leverages modern technologies like React.js and Node.
    - Describe the components of a business model that should be presented in a software project pitch. How does a well-defined business model benefit your pitch?
 
 7. Business Model
-A well-defined business model shows how your project will generate revenue and become sustainable
+- A well-defined business model shows how your project will generate revenue and become sustainable
 
 Components to present
    - Revenue streams (e.g., subscription, licensing, freemium)
@@ -171,8 +170,7 @@ Our 10-month implementation plan includes key phases such as platform design (2 
    - How do you create and present financial projections in your pitch? What financial information is critical to include to attract potential investors?
 
 9. Financial Projections
-
-Financial projections help investors understand the potential returns on investments
+- Financial projections help investors understand the potential returns on investments
 
 Creation and Presentation:
    - Use realistic and data-driven assumptions.
@@ -193,10 +191,10 @@ Our financial projections estimate reaching $5 million in revenue by year two, w
 
 
 ### Call to Action: ###
-    - What is a call to action in the context of a software project pitch? Provide examples of effective calls to action that can be used to close your pitch.
+   - What is a call to action in the context of a software project pitch? Provide examples of effective calls to action that can be used to close your pitch.
 
 10. Call to Action
-A call to action (CTA) is a clear request or invitation for the audience to take a specific next step. It creates a sense of urgency and guides the audience towards the desired outcome.
+- A call to action (CTA) is a clear request or invitation for the audience to take a specific next step. It creates a sense of urgency and guides the audience towards the desired outcome.
 
 Importance:
 
