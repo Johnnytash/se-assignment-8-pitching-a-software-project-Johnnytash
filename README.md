@@ -212,16 +212,15 @@ Examples of Effective CTA
 
 11. Sources
 
-- What Do Investors Want to See in a Pitch Deck?" by Forbes. Forbes.https://www.forbes.com/sites/theyec/2023/02/03/how-to-create-an-engaging-investor-pitch-deck/#:~:text=The%20pitch%20deck%20should%20clearly,Clearly%20communicate%20your%20market%20potential.
+- What Do Investors Want to See in a Pitch Deck?" by Forbes. Forbes.https://shorturl.at/PbrLa
 
-- Cryptocurrency Use in Africa" by Chainalysis. Chainalysis Report.https://www.fanews.co.za/article/cryptocurrencies-blockchain/1407/general/1408/chainalysis-report-bitcoin-adoption-in-sub-saharan-africa-is-the-highest-in-the-world/37946#:~:text=Similar%20to%20previous%20years%2C%20Sub,billion%20in%20on%2Dchain%20value.
+- Cryptocurrency Use in Africa" by Chainalysis. Chainalysis Report.
 
-- How to Write a Call to Action (CTA) That Gets Results" by HubSpot.https://www.fanews.co.za/article/cryptocurrencies-blockchain/1407/general/1408/chainalysis-report-bitcoin-adoption-in-sub-saharan-africa-is-the-highest-in-the-world/37946#:~:text=Similar%20to%20previous%20years%2C%20Sub,billion%20in%20on%2Dchain%20value.
+- How to Write a Call to Action (CTA) That Gets Results" by HubSpot.https://shorturl.at/1xQpE
 
-- Competitive Analysis Framework" by Harvard Business School.
-https://hbr.org/2008/01/the-five-competitive-forces-that-shape-strategy
+- Competitive Analysis Framework" by Harvard Business School.https://shorturl.at/t5XSP
 
-- Effective Communication with Technical Teams" by Harvard Business Review.https://hbr.org/2016/07/how-to-communicate-with-technical-teams
+- Effective Communication with Technical Teams" by Harvard Business Review.https://shorturl.at/rF5AW
 
 
 ### Submission Guidelines: ###
